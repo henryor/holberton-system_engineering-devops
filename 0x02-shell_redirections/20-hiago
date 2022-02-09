@@ -1,0 +1,2 @@
+#!/bin/bash
+iago tr -d "cC"
