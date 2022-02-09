@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tr -d 'cC'
+$ echo "hiago" | sed 's/c//C'
